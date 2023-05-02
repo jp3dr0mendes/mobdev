@@ -1,22 +1,22 @@
 GABARITO - Atividade 05 (Lista)
 
-01-)
-02-)
-03-)
-04-)
-05-)
-06-)
-07-)
-08-)
-09-)
-10-)
-11-)
-12-)
-13-)
-14-)
-15-)
-16-)
-17-)
-18-)
-19-)
-20-)
+01-) é uma variável que armazena uma série de valores de um mesmo tipo
+02-) List<T> list = []
+03-) List<int> list = [1,2,3]
+04-) uma lista admite valores repetidos, enquanto os conjuntos não permitem
+05-) usa-se o índice do elemento desejado, assim, para acessar um elemento na i-ésima posição de um array, usa-se o comando list[i]
+06-) usa-se o método .add()
+07-) usa-se o método .insert()
+08-) usa-se o método .removeAt()
+09-) usa-se o método .any()
+10-) usa-se o método .sort()
+11-) usa-se o método .sort()
+12-) usa-se o método .copyRange()
+13-) usa-se o operador ==
+14-) usa-se o método .copyRange()
+15-) usa-se o método .join()
+16-) iterando e fazendo a soma elemento a elemento da lista
+17-) calculando a soma dos elementos de uma lista e dividindo pelo tamanho da lista
+18-) usando o método .sort() e pegando o primeiro o últim elemento da lista após isso
+19-) usa-se o método .any() 
+20-) usa-se o método .removeWhere()

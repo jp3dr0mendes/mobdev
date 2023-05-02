@@ -1,22 +1,22 @@
 GABARITO - Atividade 05 (Mapas)
 
-01-)
-02-)
-03-)
-04-)
-05-)
-06-)
-07-)
-08-)
-09-)
-10-)
-11-)
-12-)
-13-)
-14-)
-15-)
-16-)
-17-)
-18-)
-19-)
-20-)
+01-) é uma coleção de pares de chave-valor, onde é possível recuperar um valor usando sua chave associada
+02-) usando um método contrutor de maps
+03-) Map<K,T> map = {key: value}
+04-) uma lista é uma coleção de objetos do mesmo tipo, enquanto um map é uma coleção de pares chave-valor
+05-) map[key] = value
+06-) usa-se o método .remove()
+07-) tentando resgatar o valor dessa chave
+08-) usa-se o método .isEmpty()
+09-) map[chave]
+10-) atribuindo outro valor a ela (map[chave] = novo valor)
+11-) usa-se o método .emntries()
+12-) usa-se o método .values()
+13-) igualando uma a outra e printando o resultado
+14-) usando o contrutor Map.fromiterable()
+15-) usa-se o método .emntries()
+16-) usa-se o método .values()
+17-) usa-se o método .toString()
+18-) usa-se o método .clear()
+19-) usa-se o método .lenght()
+20-) igualando um ao outro

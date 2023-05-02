@@ -1,0 +1,12 @@
+GABARITO - Prova de Fluxo de Controle em Dart
+
+1-) A
+2-) B
+3-) B
+4-) A
+5-) A
+6-) A
+7-) B
+8-) D
+9-) B
+10-) B

@@ -1,0 +1,22 @@
+GABARITO - Prova de Fluxo de Controle em Dart
+
+01-) são expressões que permitem a execução de uma instrução somente se uma condição for atendida
+02-) if-else, switch case, 
+03-) é uma estrutura de controle de fluxo, que executa um comando caso a expressão passada como parâmetro seja verdadeira
+04-) é uma estrutura de controle de fluxo que, caso a e expressão passada como parâmetro seja verdadeira, executa a sequência de comandos contida no escopo de "if" e, caso a expressão seja falsa, executa a sequência de comandos contida no escopo de "else"
+05-) é uma alternativa ás instruções if-else que permite que uma variável seja testada quanto à igualdade em relação a uma série de valores (denominados "case")
+06-) passa-se uma variável como parâmetro e depois a compara com uma série de outros valores, caso a igualdade seja verdadeira, executa-se o comando correspondente ao valor  
+07-) é uma forma reduzida para iterar através de um range de valores
+08-) em loops de sequência pré definida
+09-) são estruturas de controle de fluxo destinados a executar uma determinada sequência de comandos enquanto a condução passada como parâmetro for atendida
+10-) passa-se uma expressão como parâmtro e declara-se a sequência de comandos que se deseja executar enquanto essa condição for atendida
+11-) semelhante ao while, com a diferença que o código passado no escopo será executado pelo menos uma vez
+12-) semelhante ao while, com a diferença que o código passado no escopo será executado pelo menos uma vez
+13-) é uma instrução destinada a interromper um fluxo 
+14-) dentro de fluxos em dart
+15-) é uma instrução destinda a interromper uma sequência de comandos dentro de um fluxo e passar para a próxima
+16-) dentro de fluxos em dart
+17-) é a estrutura destinada ao tratamento de erros em dart
+18-) dentro da estrutura "try" passa-se a sequência de comandos que se deseja executar, e na estrutura "catch" é declarado o código destinado a tratar o possível erro decorrente da estrutura anterior
+19-) é uma instrução destinada a executar uma série de comandos após uma estrutura try-catch
+20-) após estrutuas try-catch

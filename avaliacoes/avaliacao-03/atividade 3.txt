@@ -1,0 +1,12 @@
+GABARITO - Atividade 3
+
+01-) 11
+02-) 2
+03-) 1
+04-) x+5
+05-) y*3
+06-) false
+07-) se z for nulo, será 10, senão, continuará sendo z
+08-) true
+09-) false
+10-)  se a for nulo, será 10, senão, continuará sendo a
